@@ -15,4 +15,9 @@
         <RepositoryUrl>https://github.com/Padutronics/Padutronics.Conversion.Converters.Ranges</RepositoryUrl>
         <RepositoryType>Git</RepositoryType>
     </PropertyGroup>
+    <ItemGroup>
+        <PackageReference Include="Padutronics.Conversion.Converters" Version="0.2.0" />
+        <PackageReference Include="Padutronics.Formatting.Ranges" Version="0.1.0" />
+        <PackageReference Include="Padutronics.Ranges" Version="0.1.0" />
+    </ItemGroup>
 </Project>
